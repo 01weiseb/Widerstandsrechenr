@@ -1,0 +1,7 @@
+C:\Users\sebaw\Desktop\Widerstandsrechner\Rechner\Widerstandsrecher\Widerstandsrecher\bin\Debug\Widerstandsrecher.exe
+C:\Users\sebaw\Desktop\Widerstandsrechner\Rechner\Widerstandsrecher\Widerstandsrecher\bin\Debug\Widerstandsrecher.pdb
+C:\Users\sebaw\Desktop\Widerstandsrechner\Rechner\Widerstandsrecher\Widerstandsrecher\obj\x86\Debug\Widerstandsrecher.Form1.resources
+C:\Users\sebaw\Desktop\Widerstandsrechner\Rechner\Widerstandsrecher\Widerstandsrecher\obj\x86\Debug\Widerstandsrecher.Properties.Resources.resources
+C:\Users\sebaw\Desktop\Widerstandsrechner\Rechner\Widerstandsrecher\Widerstandsrecher\obj\x86\Debug\Widerstandsrecher.csproj.GenerateResource.Cache
+C:\Users\sebaw\Desktop\Widerstandsrechner\Rechner\Widerstandsrecher\Widerstandsrecher\obj\x86\Debug\Widerstandsrecher.exe
+C:\Users\sebaw\Desktop\Widerstandsrechner\Rechner\Widerstandsrecher\Widerstandsrecher\obj\x86\Debug\Widerstandsrecher.pdb
